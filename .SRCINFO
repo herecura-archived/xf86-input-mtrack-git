@@ -1,7 +1,7 @@
 pkgbase = xf86-input-mtrack-git
 	pkgdesc = A multitouch X driver using the kernel MT protocol
 	pkgver = 20150727.c1301b0
-	pkgrel = 1
+	pkgrel = 2
 	url = http://github.com/BlueDragonX/
 	arch = i686
 	arch = x86_64
